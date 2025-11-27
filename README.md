@@ -1,6 +1,6 @@
 # Cod Reducere Farmec
 
-O colecție de coduri de reducere Farmec. Le folosim pentru testarea cuvintelor cheie cod reducere Farmec, voucher Farmec, cupon Farmec, și cod promotional Farmec de pe Cuponescu.ro.
+O colecție de coduri de reducere Farmec. Le folosim pentru testarea cuvintelor cheie [cod reducere Farmec](https://cuponescu.ro/magazin/farmec), [voucher Farmec](https://cuponescu.ro/magazin/farmec), [cupon Farmec](https://cuponescu.ro/magazin/farmec), și [cod promotional Farmec](https://cuponescu.ro/magazin/farmec) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-farmec a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
